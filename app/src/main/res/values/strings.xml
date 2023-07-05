@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ubike</string>
+    <string name="stationInformationString">站點資訊</string>
+</resources>
